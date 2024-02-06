@@ -1,0 +1,11 @@
+{
+  "name": "REPLACE_ME",
+  "description": "This is the language server that hanldes the requests from IDE",
+  "version": "1.0.0",
+  "author": "Jayraj",
+  "license": "MIT",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {}
+}

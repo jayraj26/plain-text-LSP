@@ -1,0 +1,17 @@
+{
+  "name": "REPLACE_ME",
+  "description": "This is the client IDE ",
+  "author": "Jayraj",
+  "license": "MIT",
+  "version": "0.0.1",
+  "publisher": "IDK",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "dependencies": {
+    "vscode-languageclient": "^8.1.0"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.81.0"
+  }
+}
